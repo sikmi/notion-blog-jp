@@ -330,7 +330,8 @@ ol {
   font-size: 0.9rem;
   line-height: 1.8rem;
 }
-p {
+p,
+ul {
   color: #222;
   font-weight: 400;
   font-size: 0.9rem;
